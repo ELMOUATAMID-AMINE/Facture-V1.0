@@ -10,6 +10,7 @@ Facture-V1.0 est une application développée sous Excel-VBA pour la gestion des
    * Les informations de l’entreprise
    
 ![](Images/2.PNG)
+
 Le nom de la société doit être saisi au début afin qu’il soit affiché dans les autres interfaces des fonctionnalités de l’application.
 Ainsi le logo doit insérer dans la section Logo pour qu’il soit affiché lors de l’impression d’une facture.  
 
