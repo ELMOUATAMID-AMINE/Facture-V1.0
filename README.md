@@ -1,7 +1,7 @@
 # Facture-V1.0
 Application de gestion des factures
 
-Facture-V1.0 est une application développée sous Excel-VBA pour la gestion des facture d’une entreprise avec 50 lignes des articles maximum pour chaque facture. 
+Facture-V1.0 est une application développée sous Excel-VBA pour la gestion des factures d’une entreprise avec 50 lignes des articles maximum pour chaque facture. 
  ## Interface utilisateur principale
  ![](Images/1.PNG)
  
